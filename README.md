@@ -238,9 +238,9 @@ MGAS10870 was reannotated by NCBI (C9Q_RS prefix replaces SpyM3_ tags). Key conv
 
 ## Citation
 
-Flores AR, Sanson MA, Vega LA *et al.* (2025) SpxA1 and SpxA2 Function as a
+Morrison, G *et al.* (2025) SpxA1 and SpxA2 Function as a
 Stoichiometry-Dependent Regulatory Rheostat Governing Virulence Gene Expression
-in *Group A Streptococcus*. *mBio*. [DOI PENDING]
+in *Group A Streptococcus*. Submitted. [DOI PENDING]
 
 ---
 
