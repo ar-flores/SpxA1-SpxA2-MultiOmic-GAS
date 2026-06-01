@@ -6,7 +6,7 @@
 Division of Pediatric Infectious Diseases  
 Vanderbilt University Medical Center
 
-**Authors:** Anthony R. Flores, Matthew A. Sanson, Luis A. Vega *et al.*  
+**Authors:** Anthony R. Flores, Misu A. Sanson, Luis A. Vega *et al.*  
 **Journal:** mBio (in submission)  
 **Contact:** flores-lab.org  
 **GEO:** PRJNA1472884  
