@@ -220,22 +220,6 @@ bash ChIPexo/chipexo_pipeline.sh
 
 ---
 
-## Locus Tag Conversion
-
-MGAS10870 was reannotated by NCBI (C9Q_RS prefix replaces SpyM3_ tags). Key conversions from Horstmann et al. 2023:
-
-| Horstmann 2023 | Updated | Product |
-|----------------|---------|---------|
-| SpyM3_1703 / sclA | scl1 | Collagen-like surface protein A |
-| SpyM3_1698 / sclB | scl2 | Collagen-like surface protein B |
-| SpyM3_0298 / prtS | scpC | IL-8 protease |
-| SpyM3_0583 / mac-1 | ideS | IgG-degrading enzyme |
-| SpyM3_0236 / braB | brnQ | Branched-chain amino acid transporter |
-| SpyM3_0304 / spyA | C9Q_RS01830 | ADP-ribosyltransferase |
-| SpyM3_0243 / dahA | C9Q_RS01510 | DNase |
-
----
-
 ## Citation
 
 Morrison, G *et al.* (2025) SpxA1 and SpxA2 Function as a
