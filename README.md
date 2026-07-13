@@ -73,10 +73,10 @@ SpxA1-SpxA2-MultiOmic-GAS/
 
 | Data type | Repository | Accession |
 |-----------|-----------|-----------|
-| RNA-seq (FASTQ + processed) | NCBI GEO | GSE###### (pending) |
-| NanoString (RCC + processed) | NCBI GEO | GSE###### (pending) |
-| ChIP-exo (FASTQ + BAM + peaks) | NCBI GEO | GSE###### (pending) |
-| DIA Proteomics (raw + LFQ) | PRIDE | PXD###### (pending) |
+| RNA-seq (FASTQ + processed) | NCBI GEO | GSE334312 |
+| NanoString (RCC + processed) | NCBI GEO | GSE334410 |
+| ChIP-exo (FASTQ + BAM + peaks) | NCBI GEO | GSE334313 |
+| DIA Proteomics (raw + LFQ) | PRIDE | PXD079489 |
 | Reference genome | NCBI RefSeq | NZ_CP067090.1 |
 | BioProject | NCBI | PRJNA1472884 |
 
